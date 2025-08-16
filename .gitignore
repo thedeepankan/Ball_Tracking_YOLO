@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+#Ignore yolov12
+
+yolo12n.pt
 # Translations
 *.mo
 *.pot
